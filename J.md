@@ -4,6 +4,7 @@
 
 [英語](https://github.com/HaoMiaoMa/OASEGW/blob/main/English.md)
 [中国語](https://github.com/HaoMiaoMa/OASEGW/blob/main/README.md)
+[There is no language you want](https://github.com/HaoMiaoMa/OASEGW/blob/main/o.md)
 
 ## 概要
 
