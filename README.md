@@ -4,6 +4,7 @@
 
 [English](https://github.com/HaoMiaoMa/OASEGW/blob/main/English.md)
 [Japanese](https://github.com/HaoMiaoMa/OASEGW/blob/main/J.md)
+[There is no language you want](https://github.com/HaoMiaoMa/OASEGW/blob/main/o.md)
 ## 概要
 
 这是 QQ 群“守望先锋亚服交流群”的官网源代码。我们欢迎大家加入我们的群聊，畅所欲言。
