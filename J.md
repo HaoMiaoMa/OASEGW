@@ -1,6 +1,6 @@
 ## OASEGWプロジェクト
 
-## other languages
+## other languages 
 
 [英語](https://github.com/HaoMiaoMa/OASEGW/blob/main/English.md)
 [中国語](https://github.com/HaoMiaoMa/OASEGW/blob/main/README.md)
