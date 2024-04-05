@@ -16,5 +16,8 @@
 该网站目前比较初级，没有太多功能，但我们将会持续维护它。
 
 ---
+## 与我们建立联系
+
+[xmfb@googlegroups.com](https://groups.google.com/g/xmfb)
 
 [立即加入群聊](https://jq.qq.com/?_wv=1027&k=5ULU3B0)
