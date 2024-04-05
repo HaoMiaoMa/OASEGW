@@ -12,5 +12,7 @@ This is the source code of the official website for the QQ group "Overwatch Asia
 The website is currently quite basic and lacks advanced features. However, we will continue to maintain it.
 
 ---
+## Get in touch with us
 
+[xmfb@googlegroups.com](https://groups.google.com/g/xmfb)
 [Join the group chat now](https://jq.qq.com/?_wv=1027&k=5ULU3B0)
