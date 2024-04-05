@@ -17,5 +17,7 @@
 このウェブサイトは現在、かなり基本的で高度な機能が欠けています。しかし、私たちはこれを継続的にメンテナンスしていく予定です。
 
 ---
+## お問い合わせください
 
+[xmfb@googlegroups.com](https://groups.google.com/g/xmfb)
 [今すぐグループチャットに参加](https://jq.qq.com/?_wv=1027&k=5ULU3B0)
